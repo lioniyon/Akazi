@@ -1,2 +1,5 @@
 # Akazi
-Employment-oriented service
+
+Job seeking service in EAC
+
+More documentation to come soon...
